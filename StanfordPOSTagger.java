@@ -1,4 +1,4 @@
-import java.io.IOException;
+ï»¿import java.io.IOException;
 
 import edu.stanford.nlp.tagger.maxent.MaxentTagger;
 
@@ -13,7 +13,7 @@ public class StanfordPOSTagger {
 	                "Resources/persian.tagger");
 	 
 	        // The sample string
-	        String sample = "ÑæÒ ÎæÈí ÈÑÇí ÔãÇ ÂÑÒæãäÏã";
+	        String sample = "Ø±ÙˆØ² Ø®ÙˆØ¨ÛŒ Ø¨Ø±Ø§ÛŒ Ø´Ù…Ø§ Ø¢Ø±Ø²Ùˆ Ù…ÛŒÚ©Ù†Ù…";
 	 
 	        // The tagged string
 	        String tagged = tagger.tagString(sample);
