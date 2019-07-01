@@ -4,7 +4,7 @@ Name Entity Recognition , Document Categorizer , Sentence Detector , POS Tagger 
 مثالهایی برای فارسی
 
 تشخیص نام
-تقسیم بندی موضوعات-
+تقسیم بندی موضوعات
 -تشخیص جملات
 -تحلیل نحوی جملات
 -استخراج خودکار عناوین از متن
